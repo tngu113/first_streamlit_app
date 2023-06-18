@@ -44,4 +44,4 @@ streamlit.header("The fruit load list contains:")
 streamlit.dataframe(my_data_rows)
 
 #Allow the end user to add a fruit to the lost
-add_my_fruit = "jackfruit"
+streamlit.write("Thanks for adding ', add_my_fruit)
